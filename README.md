@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Orhan Dag</h1>
 <h3 align="center">A passionate Data Scientist from Germany</h3>
 
+- 🔭 I’m currently working in **Data Science area.**
+
+- 🌱 I’m currently learning **Open-Cv.**
+
+- 👯 I’m looking to collaborate on **Deep Learning and Machine Learning.**
+
+- 📝 I regularly write articles on [https://medium.com/@dagorhan20](https://medium.com/@dagorhan20)
+
+- 💬 Ask me about **Data Visualization, EDA and Image Labeling.**
+
+- ⚡ Fun fact **😀 I am a DeepLearner life-time long.😀**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/orhan-dag-6247b8142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="orhan-dag-6247b8142" height="30" width="40" /></a>
